@@ -9,3 +9,8 @@
 
 # rspec failure tracking
 .rspec_status
+
+# IDE settiong
+.idea/**/workspace.xml
+.idea/**/statistics.xml
+.idea/**/tasks.xml
